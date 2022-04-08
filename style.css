@@ -1,0 +1,9 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.cookie-container {
+  background: linear-gradient(260deg, #9B6C50 0%, #4F2626 100%);
+}
